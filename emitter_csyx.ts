@@ -1,0 +1,1 @@
+const service_csyx = <T>(args: T): T => { return args; };
